@@ -1,7 +1,5 @@
 # OS
 
-# Shell
-
 Creating my own command shell using OS system calls to execute built in Linux Commands
 
 The shell runs an infinite loop (which will only exit with the ‘exit’ command) and interactively process user commands.
